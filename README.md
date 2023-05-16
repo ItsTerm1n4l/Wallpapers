@@ -2,12 +2,12 @@
 My Awesome Wallpaper Collection
 
 The wallpapers are ordered categorically,
-
+"
 All - All the wallpapers.
 Favourites - My favourite wallpapers.
 Nord - Nord colourscheme wallpapers.
 Firewatch-style - Wallpapers that follow the firewatch style - smooth landscapes.
-
+"
 
 **Disclaimer:** 
 
