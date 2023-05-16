@@ -1,5 +1,5 @@
 # Wallpapers
-My Awesome Wallpaper Collection
+My Awesome Wallpaper Collection.
 
 The wallpapers are ordered categorically,  
 - **All** - All the wallpapers.  
