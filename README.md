@@ -12,8 +12,10 @@
 
 ### Galleries
 - **[All wallpapers](pages/All.md)**
+- **[My Favorite wallpapers](pages/Favorites.md)**
 - **[Gruvbox wallpapers](pages/Gruvbox.md)**
 - **[Nord wallpapers](pages/Nord.md)**
+- **[Fantasy wallpapers](pages/Fantasy.md)**
 - **[Sea wallpapers](pages/Sea.md)**
 
 ## **Disclaimer:**  
