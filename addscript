@@ -6,7 +6,7 @@ echo $1
 echo $COUNT
 
 
-for file in $1/*; do 
+for file in $2/*; do 
    if [ -f "$file" ]; then 
      ITER=$(($ITER + 1))
      echo "![$(basename $file)](/$(basename $1)/$(basename $file))" >> ./"$2".md
