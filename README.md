@@ -2,7 +2,7 @@
 <h1>
 <p align="center">
   <img alt="GitHub" src="https://raw.githubusercontent.com/ItsTerm1n4l/Wallpapers/main/assets/github_badge.jpg">
-  <img alt="GitHub" src="https://img.shields.io/github/directory-file-count/ItsTerm1n4l/Wallpapers/All?style=for-the-badge&label=Wallpapers&color=3E68D7&labelColor=151724">
+  <img alt="GitHub" src="https://img.shields.io/github/directory-file-count/ItsTerm1n4l/Wallpapers/images?style=for-the-badge&label=Wallpapers&color=3E68D7&labelColor=151724">
 </p>
 </h1>
 
