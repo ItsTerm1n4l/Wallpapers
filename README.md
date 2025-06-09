@@ -9,15 +9,11 @@
 
 ### My Awesome Wallpaper Collection.        
 
-The wallpapers are ordered categorically,  
-- **All** - All the wallpapers.  
-- **Favourites** - My favourite wallpapers.  
-- **Nord** - Nord colourscheme wallpapers.  
-- **Firewatch-style** - Wallpapers that follow the firewatch style - smooth landscapes.    
 
 ### Galleries
 - **[All wallpapers](pages/All.md)**
 - **[Gruvbox wallpapers](pages/Gruvbox.md)**
+- **[Sea wallpapers](pages/Sea.md)**
 
 ## **Disclaimer:**  
 
@@ -28,6 +24,6 @@ If you are the creator of any of these images please create an issue and I will 
 MIT: https://lbesson.mit-license.org/  
 GPL: https://www.gnu.org/licenses/gpl-3.0.txt  
 
-Give It Away: <https://youtu.be/mUfcasIspAY>   
 ___
-I just don't wanna get sued lol  
+Give It Away: <https://youtu.be/mUfcasIspAY>   
+
