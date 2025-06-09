@@ -1,5 +1,5 @@
 #!/bin/bash
-COUNT=$(ls -1 | wc -l)
+COUNT=$(ls -1 $1 | wc -l)
 ITER=0
 
 echo $1
