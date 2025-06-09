@@ -1,4 +1,4 @@
-![abstract-lighthouse-at-sea.jpeg](images/abstract-lighthouse-at-sea.jpeg)
+![abstract-lighthouse-at-sea.jpeg](/images/abstract-lighthouse-at-sea.jpeg)
 ![abstract-night-landscape.png](images/abstract-night-landscape.png)
 ![airplane-flying-through-stormy-clouds.jpeg](images/airplane-flying-through-stormy-clouds.jpeg)
 ![astronaut-reflective-landscape-sunset.jpg](images/astronaut-reflective-landscape-sunset.jpg)
