@@ -13,6 +13,7 @@
 ### Galleries
 - **[All wallpapers](pages/All.md)**
 - **[Gruvbox wallpapers](pages/Gruvbox.md)**
+- **[Nord wallpapers](pages/Nord.md)**
 - **[Sea wallpapers](pages/Sea.md)**
 
 ## **Disclaimer:**  
