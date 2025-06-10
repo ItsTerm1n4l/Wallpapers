@@ -16,6 +16,7 @@
 - **[Gruvbox wallpapers](pages/Gruvbox.md)**
 - **[Nord wallpapers](pages/Nord.md)**
 - **[Fantasy wallpapers](pages/Fantasy.md)**
+- **[Firewatch style wallpapers](pages/Fantasy.md)**
 - **[Sea wallpapers](pages/Sea.md)**
 
 ## **Disclaimer:**  
