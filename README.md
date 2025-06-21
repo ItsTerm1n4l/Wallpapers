@@ -13,12 +13,19 @@ The wallpapers are organized into different categories based on style to make th
 
 ### Pages :page_with_curl: 
 - **[All wallpapers](pages/All.md)**
+
 - **[My Favorite wallpapers](pages/Favorites.md)**
+
 - **[Gruvbox wallpapers](pages/Gruvbox.md)** 
+
 - **[Nord wallpapers](pages/Nord.md)**
+
 - **[Tokyo-night theme wallpapers](pages/Tokyo-night.md)**
+
 - **[Fantasy wallpapers](pages/Fantasy.md)**
+
 - **[Firewatch style wallpapers](pages/Firewatch.md)**
+
 - **[Sea wallpapers](pages/Sea.md)**
 
 ## **Disclaimer:**  
